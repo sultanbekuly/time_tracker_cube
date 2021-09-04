@@ -1,2 +1,2 @@
-# time_tracker_cube
+# time tracker cube
 Time tracking cube based on Arduino.
