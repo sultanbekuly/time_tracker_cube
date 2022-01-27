@@ -9,8 +9,8 @@
 MPU6050 mpu;
 
 ///////////////////////////////BASIC SETINGS////////////////////////////
-const char *ssid = "Network_Name"; //"Koska"//Wifi Network Name
-const char *password = "Network_Key"; //"12341234"//Wifi Network Key
+const char *ssid = "Network_Name"; //Wifi Network Name
+const char *password = "Network_Key"; //Wifi Network Key
 const char *authorization = "Basic Y2WG...lGsA=="; //ex: "Basic ABC=="
 
 //////////////////////////content_length///description/////////////////////pid - project_id
